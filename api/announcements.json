@@ -1,3 +1,13 @@
-{
-  "announcements": []
-}
+  {
+    "announcements": [
+      {
+        "id": "test-20260717-071516",
+        "title": "测试公告",
+        "content": "这是一个测试公告",
+        "publishedAt": "2026-07-17T07:15:16Z",
+        "importance": "normal",
+        "channels": ["beta", "stable"],
+        "minVersionCode": 1
+      }
+    ]
+  }
