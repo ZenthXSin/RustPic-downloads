@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-17T08:23:15.808359+00:00",
+  "generatedAt": "2026-07-17T08:57:26.521549+00:00",
   "commits": [
+    {
+      "sha": "a2801827d7a29152734f24c095dc666c8d7ff70d",
+      "shortSha": "a280182",
+      "committedAt": "2026-07-17T16:50:37+08:00",
+      "subject": "Update build-beta.yml"
+    },
+    {
+      "sha": "88284be6008d5f032fc103e917942c7d4fb9a3b7",
+      "shortSha": "88284be",
+      "committedAt": "2026-07-17T16:29:26+08:00",
+      "subject": "完善生成图路径并补充工作区隔离测试"
+    },
     {
       "sha": "7803f2a89d870ac06bf2a46957bf0f8fa193f4b4",
       "shortSha": "7803f2a",
       "committedAt": "2026-07-17T16:22:58+08:00",
       "subject": "Revert \"补充下载站软件简介\""
-    },
-    {
-      "sha": "56b76513ebcded441f1f69be0090130d473ebc5a",
-      "shortSha": "56b7651",
-      "committedAt": "2026-07-17T16:20:36+08:00",
-      "subject": "补充下载站软件简介"
-    },
-    {
-      "sha": "b5ef20e9aba0f3be6ee6b6b0551d5ab5acfb4e85",
-      "shortSha": "b5ef20e",
-      "committedAt": "2026-07-17T16:09:59+08:00",
-      "subject": "1"
     }
   ]
 }
