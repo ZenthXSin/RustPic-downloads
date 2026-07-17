@@ -2,6 +2,18 @@
   "versions": [
     {
       "channel": "beta",
+      "versionName": "BETA-12",
+      "versionCode": 12,
+      "publishedAt": "2026-07-17T08:13:41.854601+00:00",
+      "commit": "37c98e12826dda93958d79015aa9dd258f91c387",
+      "title": "RustPic BETA-12",
+      "notes": [],
+      "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-12/RustPic-BETA-12-release.apk",
+      "sha256": "85ed9117b196565d70e13c8655ee9afaae5a07ca82be6892517f58f6a70e5b78",
+      "minSupportedVersionCode": 1
+    },
+    {
+      "channel": "beta",
       "versionName": "BETA-11",
       "versionCode": 11,
       "publishedAt": "2026-07-17T07:59:19.153837+00:00",
