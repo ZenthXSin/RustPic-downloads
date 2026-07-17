@@ -1,12 +1,12 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-17T07:32:57.869527+00:00",
+  "generatedAt": "2026-07-17T07:36:28.042047+00:00",
   "commits": [
     {
-      "sha": "89efb6cd1a3eec10f7b1c984105eb5dfb2b29b2a",
-      "shortSha": "89efb6c",
-      "committedAt": "2026-07-17T15:21:07+08:00",
-      "subject": "完善下载站历史信息展示"
+      "sha": "24c23a63b4c55c37bdbf61eb8daa6558949c5d87",
+      "shortSha": "24c23a6",
+      "committedAt": "2026-07-17T15:26:42+08:00",
+      "subject": "将公告入口移至关于我们"
     }
   ]
 }
