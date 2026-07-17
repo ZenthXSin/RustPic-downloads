@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-17T08:20:55.801380+00:00",
+  "generatedAt": "2026-07-17T08:23:15.808359+00:00",
   "commits": [
+    {
+      "sha": "7803f2a89d870ac06bf2a46957bf0f8fa193f4b4",
+      "shortSha": "7803f2a",
+      "committedAt": "2026-07-17T16:22:58+08:00",
+      "subject": "Revert \"补充下载站软件简介\""
+    },
     {
       "sha": "56b76513ebcded441f1f69be0090130d473ebc5a",
       "shortSha": "56b7651",
@@ -13,12 +19,6 @@
       "shortSha": "b5ef20e",
       "committedAt": "2026-07-17T16:09:59+08:00",
       "subject": "1"
-    },
-    {
-      "sha": "37c98e12826dda93958d79015aa9dd258f91c387",
-      "shortSha": "37c98e1",
-      "committedAt": "2026-07-17T16:04:50+08:00",
-      "subject": "修正下载站版本显示和提交数量"
     }
   ]
 }
