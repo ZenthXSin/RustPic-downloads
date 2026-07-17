@@ -1,0 +1,12 @@
+{
+  "channel": "beta",
+  "versionName": "BETA-8",
+  "versionCode": 8,
+  "publishedAt": "2026-07-17T07:32:57.835420+00:00",
+  "commit": "89efb6cd1a3eec10f7b1c984105eb5dfb2b29b2a",
+  "title": "RustPic BETA-8",
+  "notes": [],
+  "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-8/RustPic-BETA-8-release.apk",
+  "sha256": "b449a5e2bb597dbf24898774d593b623bb3c31c0a35e0966592e55385170c3f2",
+  "minSupportedVersionCode": 1
+}
