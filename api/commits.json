@@ -1,12 +1,12 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-17T07:08:35.824446+00:00",
+  "generatedAt": "2026-07-17T07:21:32.070065+00:00",
   "commits": [
     {
-      "sha": "048515b1db1741980ffea6cb09e76057646c3e8a",
-      "shortSha": "048515b",
-      "committedAt": "2026-07-17T15:08:20+08:00",
-      "subject": "给下载站添加主仓库提交记录"
+      "sha": "89efb6cd1a3eec10f7b1c984105eb5dfb2b29b2a",
+      "shortSha": "89efb6c",
+      "committedAt": "2026-07-17T15:21:07+08:00",
+      "subject": "完善下载站历史信息展示"
     }
   ]
 }
