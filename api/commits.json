@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-17T07:55:15.093774+00:00",
+  "generatedAt": "2026-07-17T07:59:19.189693+00:00",
   "commits": [
+    {
+      "sha": "90dc35017b32077425da26ffde3d8e50c38e4a76",
+      "shortSha": "90dc350",
+      "committedAt": "2026-07-17T15:49:54+08:00",
+      "subject": "修正下载站版本日期换行"
+    },
     {
       "sha": "02490f19c29bf5c8d9fb60d11070c96e29d29648",
       "shortSha": "02490f1",
