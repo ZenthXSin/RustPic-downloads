@@ -69,7 +69,7 @@
       const channel = info.channel ? ` · ${escapeHtml(info.channel)}` : '';
       const meta = [date, info.versionCode ? `版本号 ${escapeHtml(info.versionCode)}` : ''].filter(Boolean).join(' · ');
       const apk = info.apkUrl ? `<br><a href="${escapeHtml(info.apkUrl)}">下载 APK</a>` : '';
-      return `<strong>${name}${channel}</strong><br><small>${meta}${apk}</small>`;
+      return `<strong>${name}${channel}</strong><small>${meta}${apk}</small>`;
     }
 
     async function load(channel) {
