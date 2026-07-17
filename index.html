@@ -39,7 +39,7 @@
         </div>
       </section>
       <section>
-        <h2>历史版本</h2>
+        <h2>正式版历史版本</h2>
         <div id="versions" class="item-list muted">正在读取历史版本...</div>
       </section>
     </div>
@@ -95,7 +95,7 @@
         }
         target.classList.remove('muted');
         target.innerHTML = versions.map(version => `<article class="item">${renderVersion(version)}</article>`).join('');
-      } catch (_) { target.textContent = '暂时无法读取历史版本。'; }
+      } catch (_) { target.textContent = '暂无正式版历史版本。'; }
     }
 
     async function loadCommits() {

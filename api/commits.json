@@ -1,12 +1,114 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-17T07:36:28.042047+00:00",
+  "generatedAt": "2026-07-17T07:45:42.932150+00:00",
   "commits": [
+    {
+      "sha": "02490f19c29bf5c8d9fb60d11070c96e29d29648",
+      "shortSha": "02490f1",
+      "committedAt": "2026-07-17T15:36:11+08:00",
+      "subject": "修正下载站历史数据来源"
+    },
     {
       "sha": "24c23a63b4c55c37bdbf61eb8daa6558949c5d87",
       "shortSha": "24c23a6",
       "committedAt": "2026-07-17T15:26:42+08:00",
       "subject": "将公告入口移至关于我们"
+    },
+    {
+      "sha": "89efb6cd1a3eec10f7b1c984105eb5dfb2b29b2a",
+      "shortSha": "89efb6c",
+      "committedAt": "2026-07-17T15:21:07+08:00",
+      "subject": "完善下载站历史信息展示"
+    },
+    {
+      "sha": "363ec3787a07c800b90037bd2baabf3ce71a3406",
+      "shortSha": "363ec37",
+      "committedAt": "2026-07-17T15:12:48+08:00",
+      "subject": "修复更新信息标题默认值编译错误"
+    },
+    {
+      "sha": "048515b1db1741980ffea6cb09e76057646c3e8a",
+      "shortSha": "048515b",
+      "committedAt": "2026-07-17T15:08:20+08:00",
+      "subject": "给下载站添加主仓库提交记录"
+    },
+    {
+      "sha": "ee08883368c95a8dbdd6f286fddac26724729bff",
+      "shortSha": "ee08883",
+      "committedAt": "2026-07-17T15:05:14+08:00",
+      "subject": "完善技能与图片生成工作流"
+    },
+    {
+      "sha": "ac53b53cf86dd6604d2196827d54d4f305ec8198",
+      "shortSha": "ac53b53",
+      "committedAt": "2026-07-17T14:22:41+08:00",
+      "subject": "修复 CI 单元测试断言"
+    },
+    {
+      "sha": "27a8124f4aad10ccf97450bb3b5cfc0f3de84d59",
+      "shortSha": "27a8124",
+      "committedAt": "2026-07-17T14:01:40+08:00",
+      "subject": "修复 CI Gradle wrapper 权限"
+    },
+    {
+      "sha": "8e0777f24730fbec4f88e52195cda3c587855711",
+      "shortSha": "8e0777f",
+      "committedAt": "2026-07-17T13:49:47+08:00",
+      "subject": "添加下载站发布流程"
+    },
+    {
+      "sha": "5d967604d18164a9515e4cc115d11a25897fea0b",
+      "shortSha": "5d96760",
+      "committedAt": "2026-07-15T15:22:03+08:00",
+      "subject": "提高图片生成连接稳定性"
+    },
+    {
+      "sha": "f2af1b0e1e5bee77ac159e66b46af885d462aa84",
+      "shortSha": "f2af1b0",
+      "committedAt": "2026-07-15T14:11:04+08:00",
+      "subject": "移除构建产物跟踪并补充忽略规则。"
+    },
+    {
+      "sha": "2cf566ff222201f2029337f95179d25370d6dbb9",
+      "shortSha": "2cf566f",
+      "committedAt": "2026-07-14T21:55:04+08:00",
+      "subject": "完善图片生成与参考图工作流"
+    },
+    {
+      "sha": "dfe35989547ab51fd3ee019716ca0a8353a65fc1",
+      "shortSha": "dfe3598",
+      "committedAt": "2026-07-13T21:20:57+08:00",
+      "subject": "1"
+    },
+    {
+      "sha": "424f235313f67b81277be4f214683bc9c14452a4",
+      "shortSha": "424f235",
+      "committedAt": "2026-07-13T21:20:44+08:00",
+      "subject": "1"
+    },
+    {
+      "sha": "b6f8036de25d9ade3e3c9b8bf583fed6b6fb9471",
+      "shortSha": "b6f8036",
+      "committedAt": "2026-07-12T23:18:58+08:00",
+      "subject": "1"
+    },
+    {
+      "sha": "e5f3460954907bc55c9ee85c41ef7928bfb0abab",
+      "shortSha": "e5f3460",
+      "committedAt": "2026-07-12T12:33:40+08:00",
+      "subject": "1"
+    },
+    {
+      "sha": "1afbf3feafc710c274e940843185908e5b152b90",
+      "shortSha": "1afbf3f",
+      "committedAt": "2026-07-11T22:22:52+08:00",
+      "subject": "1"
+    },
+    {
+      "sha": "983674e88d91f92666b20e49d86a5ca53f7385a1",
+      "shortSha": "983674e",
+      "committedAt": "2026-07-10T21:33:25+08:00",
+      "subject": "Initial commit"
     }
   ]
 }
