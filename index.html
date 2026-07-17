@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RustPic 下载</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, sans-serif; background: #111; color: #e8efee; }
+    body { max-width: 720px; margin: 0 auto; padding: 48px 20px; }
+    a { color: #62bbb7; }
+    section { border-top: 1px solid #343b3a; padding: 20px 0; }
+    .muted { color: #a2aeac; }
+  </style>
+</head>
+<body>
+  <h1>RustPic</h1>
+  <p class="muted">面向游戏贴图创作者的对话式图像工作台。</p>
+  <section><h2>稳定版</h2><p id="stable">正在读取版本信息...</p></section>
+  <section><h2>测试版</h2><p id="beta">正在读取版本信息...</p></section>
+  <script>
+    async function load(channel) {
+      const target = document.getElementById(channel);
+      try {
+        const info = await fetch(`api/${channel}.json`, { cache: 'no-store' }).then(response => response.json());
+        target.innerHTML = `${info.versionName} · ${new Date(info.publishedAt).toLocaleString()}<br><a href="${info.apkUrl}">下载 APK</a>`;
+      } catch (_) { target.textContent = '暂时无法读取版本信息。'; }
+    }
+    load('stable'); load('beta');
+  </script>
+</body>
+</html>
