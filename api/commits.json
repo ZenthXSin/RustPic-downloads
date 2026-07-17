@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-17T08:13:41.913917+00:00",
+  "generatedAt": "2026-07-17T08:20:55.801380+00:00",
   "commits": [
+    {
+      "sha": "56b76513ebcded441f1f69be0090130d473ebc5a",
+      "shortSha": "56b7651",
+      "committedAt": "2026-07-17T16:20:36+08:00",
+      "subject": "补充下载站软件简介"
+    },
+    {
+      "sha": "b5ef20e9aba0f3be6ee6b6b0551d5ab5acfb4e85",
+      "shortSha": "b5ef20e",
+      "committedAt": "2026-07-17T16:09:59+08:00",
+      "subject": "1"
+    },
     {
       "sha": "37c98e12826dda93958d79015aa9dd258f91c387",
       "shortSha": "37c98e1",
       "committedAt": "2026-07-17T16:04:50+08:00",
       "subject": "修正下载站版本显示和提交数量"
-    },
-    {
-      "sha": "90dc35017b32077425da26ffde3d8e50c38e4a76",
-      "shortSha": "90dc350",
-      "committedAt": "2026-07-17T15:49:54+08:00",
-      "subject": "修正下载站版本日期换行"
-    },
-    {
-      "sha": "02490f19c29bf5c8d9fb60d11070c96e29d29648",
-      "shortSha": "02490f1",
-      "committedAt": "2026-07-17T15:36:11+08:00",
-      "subject": "修正下载站历史数据来源"
     }
   ]
 }
