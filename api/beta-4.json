@@ -1,0 +1,12 @@
+{
+  "channel": "beta",
+  "versionName": "BETA-4",
+  "versionCode": 4,
+  "publishedAt": "2026-07-17T06:34:03.114311+00:00",
+  "commit": "ac53b53cf86dd6604d2196827d54d4f305ec8198",
+  "title": "RustPic BETA-4",
+  "notes": [],
+  "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-4/RustPic-BETA-4-release.apk",
+  "sha256": "2db2608b5dec3099ec32c7c79df7ce7e8ead06c83449f7e452b9c2e9dacbbd85",
+  "minSupportedVersionCode": 1
+}
