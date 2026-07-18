@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-17T08:57:26.521549+00:00",
+  "generatedAt": "2026-07-18T15:04:14.836118+00:00",
   "commits": [
     {
-      "sha": "a2801827d7a29152734f24c095dc666c8d7ff70d",
-      "shortSha": "a280182",
-      "committedAt": "2026-07-17T16:50:37+08:00",
-      "subject": "Update build-beta.yml"
+      "sha": "224cd7cf0a6481a1a3f6eabe4ac3861b3375981b",
+      "shortSha": "224cd7c",
+      "committedAt": "2026-07-18T22:55:30+08:00",
+      "subject": "build-beta: remove test step"
     },
     {
-      "sha": "88284be6008d5f032fc103e917942c7d4fb9a3b7",
-      "shortSha": "88284be",
-      "committedAt": "2026-07-17T16:29:26+08:00",
-      "subject": "完善生成图路径并补充工作区隔离测试"
+      "sha": "6592073996066efab3703e759e34244edff3ccbf",
+      "shortSha": "6592073",
+      "committedAt": "2026-07-18T20:56:20+08:00",
+      "subject": "新版大改"
     },
     {
-      "sha": "7803f2a89d870ac06bf2a46957bf0f8fa193f4b4",
-      "shortSha": "7803f2a",
-      "committedAt": "2026-07-17T16:22:58+08:00",
-      "subject": "Revert \"补充下载站软件简介\""
+      "sha": "c0503257551efe104437f968bb9fe4f37283f179",
+      "shortSha": "c050325",
+      "committedAt": "2026-07-18T14:53:19+08:00",
+      "subject": "1"
     }
   ]
 }
