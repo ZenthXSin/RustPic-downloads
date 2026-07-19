@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-18T15:04:14.836118+00:00",
+  "generatedAt": "2026-07-19T06:31:24.091681+00:00",
   "commits": [
+    {
+      "sha": "7f58aa3c39ef59ce369509d50d78099efa2cad0b",
+      "shortSha": "7f58aa3",
+      "committedAt": "2026-07-19T14:21:38+08:00",
+      "subject": "完善生成确认规则并导出调试日志"
+    },
     {
       "sha": "224cd7cf0a6481a1a3f6eabe4ac3861b3375981b",
       "shortSha": "224cd7c",
@@ -13,12 +19,6 @@
       "shortSha": "6592073",
       "committedAt": "2026-07-18T20:56:20+08:00",
       "subject": "新版大改"
-    },
-    {
-      "sha": "c0503257551efe104437f968bb9fe4f37283f179",
-      "shortSha": "c050325",
-      "committedAt": "2026-07-18T14:53:19+08:00",
-      "subject": "1"
     }
   ]
 }
