@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-19T06:31:24.091681+00:00",
+  "generatedAt": "2026-07-19T13:27:30.097183+00:00",
   "commits": [
+    {
+      "sha": "7c3912173834f0c1514a4a96d0cfa9c57e219405",
+      "shortSha": "7c39121",
+      "committedAt": "2026-07-19T21:18:08+08:00",
+      "subject": "隔离图片生成与聊天 Agent 会话"
+    },
+    {
+      "sha": "bdd4a49eb9cbb91f634dfa44e156c5acc93d4b7a",
+      "shortSha": "bdd4a49",
+      "committedAt": "2026-07-19T20:04:14+08:00",
+      "subject": "完善图片生成诊断与多图请求处理"
+    },
     {
       "sha": "7f58aa3c39ef59ce369509d50d78099efa2cad0b",
       "shortSha": "7f58aa3",
       "committedAt": "2026-07-19T14:21:38+08:00",
       "subject": "完善生成确认规则并导出调试日志"
-    },
-    {
-      "sha": "224cd7cf0a6481a1a3f6eabe4ac3861b3375981b",
-      "shortSha": "224cd7c",
-      "committedAt": "2026-07-18T22:55:30+08:00",
-      "subject": "build-beta: remove test step"
-    },
-    {
-      "sha": "6592073996066efab3703e759e34244edff3ccbf",
-      "shortSha": "6592073",
-      "committedAt": "2026-07-18T20:56:20+08:00",
-      "subject": "新版大改"
     }
   ]
 }
