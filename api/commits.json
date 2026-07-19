@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-19T13:27:30.097183+00:00",
+  "generatedAt": "2026-07-19T15:21:23.311392+00:00",
   "commits": [
+    {
+      "sha": "41286d5cd9f98b200c160ed61c5331184811bc59",
+      "shortSha": "41286d5",
+      "committedAt": "2026-07-19T23:14:18+08:00",
+      "subject": "改用 APK 内部版本号驱动发布流程"
+    },
     {
       "sha": "7c3912173834f0c1514a4a96d0cfa9c57e219405",
       "shortSha": "7c39121",
@@ -13,12 +19,6 @@
       "shortSha": "bdd4a49",
       "committedAt": "2026-07-19T20:04:14+08:00",
       "subject": "完善图片生成诊断与多图请求处理"
-    },
-    {
-      "sha": "7f58aa3c39ef59ce369509d50d78099efa2cad0b",
-      "shortSha": "7f58aa3",
-      "committedAt": "2026-07-19T14:21:38+08:00",
-      "subject": "完善生成确认规则并导出调试日志"
     }
   ]
 }
