@@ -1,12 +1,12 @@
 {
   "channel": "stable",
-  "versionName": "BETA-24",
-  "versionCode": 24,
-  "publishedAt": "2026-07-20T14:08:10.944744+00:00",
-  "commit": "13a2637a9c88530e6c7bb15019c39342dd81fabc",
-  "title": "RustPic STABLE-24",
+  "versionName": "BETA-27",
+  "versionCode": 27,
+  "publishedAt": "2026-07-21T12:30:00.215510+00:00",
+  "commit": "bcb4c935bbb4cf8da2d3bfef2cc99e2a722f0ba2",
+  "title": "RustPic STABLE-27",
   "notes": [],
-  "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-24/RustPic-BETA-24-release.apk",
-  "sha256": "bbd912b86c2bef542b723a205a210103a7d537ee1d26419a809a3f978525eb52",
+  "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-27/RustPic-BETA-27-release.apk",
+  "sha256": "0e9f8da4584dbae420c2874d9080b00c65e8c9eec797e1866c9eeabe67b80bb4",
   "minSupportedVersionCode": 1
 }
