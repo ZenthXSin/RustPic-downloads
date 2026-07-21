@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-20T14:08:10.972151+00:00",
+  "generatedAt": "2026-07-21T09:23:56.781092+00:00",
   "commits": [
+    {
+      "sha": "5e36452f4c4f91a24601a9809e139961e76e46f6",
+      "shortSha": "5e36452",
+      "committedAt": "2026-07-21T17:16:18+08:00",
+      "subject": "完善生图模式与预览流程"
+    },
     {
       "sha": "13a2637a9c88530e6c7bb15019c39342dd81fabc",
       "shortSha": "13a2637",
@@ -13,12 +19,6 @@
       "shortSha": "41286d5",
       "committedAt": "2026-07-19T23:14:18+08:00",
       "subject": "改用 APK 内部版本号驱动发布流程"
-    },
-    {
-      "sha": "7c3912173834f0c1514a4a96d0cfa9c57e219405",
-      "shortSha": "7c39121",
-      "committedAt": "2026-07-19T21:18:08+08:00",
-      "subject": "隔离图片生成与聊天 Agent 会话"
     }
   ]
 }
