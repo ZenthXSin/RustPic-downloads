@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-21T09:23:56.781092+00:00",
+  "generatedAt": "2026-07-21T10:25:13.233421+00:00",
   "commits": [
+    {
+      "sha": "99d86131227db39db36f098312a375810ee7ac2a",
+      "shortSha": "99d8613",
+      "committedAt": "2026-07-21T18:17:35+08:00",
+      "subject": "保存当前预览与通道配置"
+    },
     {
       "sha": "5e36452f4c4f91a24601a9809e139961e76e46f6",
       "shortSha": "5e36452",
@@ -13,12 +19,6 @@
       "shortSha": "13a2637",
       "committedAt": "2026-07-20T22:00:53+08:00",
       "subject": "1"
-    },
-    {
-      "sha": "41286d5cd9f98b200c160ed61c5331184811bc59",
-      "shortSha": "41286d5",
-      "committedAt": "2026-07-19T23:14:18+08:00",
-      "subject": "改用 APK 内部版本号驱动发布流程"
     }
   ]
 }
