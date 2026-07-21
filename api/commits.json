@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-21T10:25:13.233421+00:00",
+  "generatedAt": "2026-07-21T12:30:00.251532+00:00",
   "commits": [
+    {
+      "sha": "bcb4c935bbb4cf8da2d3bfef2cc99e2a722f0ba2",
+      "shortSha": "bcb4c93",
+      "committedAt": "2026-07-21T20:21:56+08:00",
+      "subject": "完善像素化尺寸并移除最近生成入口"
+    },
+    {
+      "sha": "b52c3d1a1eb28b1a1f0f6fe3cc63d41a62e73e37",
+      "shortSha": "b52c3d1",
+      "committedAt": "2026-07-21T18:23:19+08:00",
+      "subject": "让快速预览使用图片视觉识别"
+    },
     {
       "sha": "99d86131227db39db36f098312a375810ee7ac2a",
       "shortSha": "99d8613",
       "committedAt": "2026-07-21T18:17:35+08:00",
       "subject": "保存当前预览与通道配置"
-    },
-    {
-      "sha": "5e36452f4c4f91a24601a9809e139961e76e46f6",
-      "shortSha": "5e36452",
-      "committedAt": "2026-07-21T17:16:18+08:00",
-      "subject": "完善生图模式与预览流程"
-    },
-    {
-      "sha": "13a2637a9c88530e6c7bb15019c39342dd81fabc",
-      "shortSha": "13a2637",
-      "committedAt": "2026-07-20T22:00:53+08:00",
-      "subject": "1"
     }
   ]
 }
