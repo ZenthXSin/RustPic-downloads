@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-23T06:16:54.534018+00:00",
+  "generatedAt": "2026-07-23T08:44:24.153268+00:00",
   "commits": [
+    {
+      "sha": "3259095b9255de31c396dbc9139cf79a63fdc996",
+      "shortSha": "3259095",
+      "committedAt": "2026-07-23T16:36:42+08:00",
+      "subject": "像素化：删除旧版，新增现代 v2 采样"
+    },
     {
       "sha": "d8844e7613ea2c8e54e316084e8a172ee0ce9730",
       "shortSha": "d8844e7",
@@ -13,12 +19,6 @@
       "shortSha": "1eb259d",
       "committedAt": "2026-07-23T11:13:35+08:00",
       "subject": "将图片网络层改为 HttpURLConnection，并发布 BETA-08。"
-    },
-    {
-      "sha": "22fe40eedbfe68e3cd78859ce99feebcdb414458",
-      "shortSha": "22fe40e",
-      "committedAt": "2026-07-22T20:57:49+08:00",
-      "subject": "Update OpenAIImageClient.kt"
     }
   ]
 }
