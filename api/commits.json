@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-23T08:44:24.153268+00:00",
+  "generatedAt": "2026-07-23T10:56:47.283930+00:00",
   "commits": [
+    {
+      "sha": "9604e1c90ee90bdaabedb95e232d56bb32115852",
+      "shortSha": "9604e1c",
+      "committedAt": "2026-07-23T18:46:18+08:00",
+      "subject": "工作区记忆与新手教程：Room 持久化偏好/事实并注入上下文"
+    },
     {
       "sha": "3259095b9255de31c396dbc9139cf79a63fdc996",
       "shortSha": "3259095",
@@ -13,12 +19,6 @@
       "shortSha": "d8844e7",
       "committedAt": "2026-07-23T14:03:35+08:00",
       "subject": "发布 BETA-09：混淆渠道 URL、导出 PNG+ZIP、像素化上限随源图"
-    },
-    {
-      "sha": "1eb259d6f4d4cecfa791b4fc90dff5d1d80876e3",
-      "shortSha": "1eb259d",
-      "committedAt": "2026-07-23T11:13:35+08:00",
-      "subject": "将图片网络层改为 HttpURLConnection，并发布 BETA-08。"
     }
   ]
 }
