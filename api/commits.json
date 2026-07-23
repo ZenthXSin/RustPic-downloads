@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-23T03:22:56.086732+00:00",
+  "generatedAt": "2026-07-23T06:16:54.534018+00:00",
   "commits": [
+    {
+      "sha": "d8844e7613ea2c8e54e316084e8a172ee0ce9730",
+      "shortSha": "d8844e7",
+      "committedAt": "2026-07-23T14:03:35+08:00",
+      "subject": "发布 BETA-09：混淆渠道 URL、导出 PNG+ZIP、像素化上限随源图"
+    },
     {
       "sha": "1eb259d6f4d4cecfa791b4fc90dff5d1d80876e3",
       "shortSha": "1eb259d",
@@ -13,12 +19,6 @@
       "shortSha": "22fe40e",
       "committedAt": "2026-07-22T20:57:49+08:00",
       "subject": "Update OpenAIImageClient.kt"
-    },
-    {
-      "sha": "ac72adc54d885771b2faa187a47c188cc8ce6a27",
-      "shortSha": "ac72adc",
-      "committedAt": "2026-07-22T20:36:41+08:00",
-      "subject": "Merge pull request #1 from ZenthXSin/beta"
     }
   ]
 }

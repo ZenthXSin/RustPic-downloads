@@ -1,0 +1,12 @@
+{
+  "channel": "beta",
+  "versionName": "BETA-31",
+  "versionCode": 31,
+  "publishedAt": "2026-07-23T06:16:54.504240+00:00",
+  "commit": "d8844e7613ea2c8e54e316084e8a172ee0ce9730",
+  "title": "RustPic BETA-31",
+  "notes": [],
+  "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-31/RustPic-BETA-31-release.apk",
+  "sha256": "e119893ada3022ccb760889cb5b83cc98cb8598354f7a0dc88cfdfea6955fe90",
+  "minSupportedVersionCode": 1
+}
