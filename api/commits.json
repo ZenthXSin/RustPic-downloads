@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-23T10:56:47.283930+00:00",
+  "generatedAt": "2026-07-23T14:27:51.780631+00:00",
   "commits": [
+    {
+      "sha": "203dca5ccdc5aaa3af7d5ef23068d08bc7354e68",
+      "shortSha": "203dca5",
+      "committedAt": "2026-07-23T22:12:52+08:00",
+      "subject": "为 create_skill 与记忆工具增加同意框，并始终展示选择自定义输入"
+    },
     {
       "sha": "9604e1c90ee90bdaabedb95e232d56bb32115852",
       "shortSha": "9604e1c",
@@ -13,12 +19,6 @@
       "shortSha": "3259095",
       "committedAt": "2026-07-23T16:36:42+08:00",
       "subject": "像素化：删除旧版，新增现代 v2 采样"
-    },
-    {
-      "sha": "d8844e7613ea2c8e54e316084e8a172ee0ce9730",
-      "shortSha": "d8844e7",
-      "committedAt": "2026-07-23T14:03:35+08:00",
-      "subject": "发布 BETA-09：混淆渠道 URL、导出 PNG+ZIP、像素化上限随源图"
     }
   ]
 }
