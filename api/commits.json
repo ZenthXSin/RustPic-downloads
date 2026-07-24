@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-23T14:27:51.780631+00:00",
+  "generatedAt": "2026-07-24T02:49:22.281443+00:00",
   "commits": [
+    {
+      "sha": "69d02a2c507e5dbf6127de5488cad179f73e1540",
+      "shortSha": "69d02a2",
+      "committedAt": "2026-07-24T10:41:22+08:00",
+      "subject": "按情况关闭不匹配技能并加固生图后台保活"
+    },
     {
       "sha": "203dca5ccdc5aaa3af7d5ef23068d08bc7354e68",
       "shortSha": "203dca5",
@@ -13,12 +19,6 @@
       "shortSha": "9604e1c",
       "committedAt": "2026-07-23T18:46:18+08:00",
       "subject": "工作区记忆与新手教程：Room 持久化偏好/事实并注入上下文"
-    },
-    {
-      "sha": "3259095b9255de31c396dbc9139cf79a63fdc996",
-      "shortSha": "3259095",
-      "committedAt": "2026-07-23T16:36:42+08:00",
-      "subject": "像素化：删除旧版，新增现代 v2 采样"
     }
   ]
 }
