@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-24T07:35:37.684086+00:00",
+  "generatedAt": "2026-07-24T14:18:01.317507+00:00",
   "commits": [
+    {
+      "sha": "0caa84bfc30795bd2531589b2e7232d632079bbf",
+      "shortSha": "0caa84b",
+      "committedAt": "2026-07-24T22:09:51+08:00",
+      "subject": "Replace thought display with transient tool status."
+    },
     {
       "sha": "487d481e56cd0be4a2b9a5eea79e0085cfcceb4a",
       "shortSha": "487d481",
@@ -13,12 +19,6 @@
       "shortSha": "52f5fe6",
       "committedAt": "2026-07-24T13:28:16+08:00",
       "subject": "修图场景禁止再问「参考图是什么」"
-    },
-    {
-      "sha": "24be9b078c2847e6e56c3e924dab0b85b6934d36",
-      "shortSha": "24be9b0",
-      "committedAt": "2026-07-24T11:19:15+08:00",
-      "subject": "修复 #5：持久化自动关闭徽章，并收紧同意/拒绝语义"
     }
   ]
 }
