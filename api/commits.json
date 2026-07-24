@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-24T02:49:22.281443+00:00",
+  "generatedAt": "2026-07-24T03:27:03.293686+00:00",
   "commits": [
+    {
+      "sha": "24be9b078c2847e6e56c3e924dab0b85b6934d36",
+      "shortSha": "24be9b0",
+      "committedAt": "2026-07-24T11:19:15+08:00",
+      "subject": "修复 #5：持久化自动关闭徽章，并收紧同意/拒绝语义"
+    },
     {
       "sha": "69d02a2c507e5dbf6127de5488cad179f73e1540",
       "shortSha": "69d02a2",
@@ -13,12 +19,6 @@
       "shortSha": "203dca5",
       "committedAt": "2026-07-23T22:12:52+08:00",
       "subject": "为 create_skill 与记忆工具增加同意框，并始终展示选择自定义输入"
-    },
-    {
-      "sha": "9604e1c90ee90bdaabedb95e232d56bb32115852",
-      "shortSha": "9604e1c",
-      "committedAt": "2026-07-23T18:46:18+08:00",
-      "subject": "工作区记忆与新手教程：Room 持久化偏好/事实并注入上下文"
     }
   ]
 }
