@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-24T14:18:01.317507+00:00",
+  "generatedAt": "2026-07-25T13:11:50.551299+00:00",
   "commits": [
+    {
+      "sha": "7a60913759d053ccd81e331c475cdf3320f145b1",
+      "shortSha": "7a60913",
+      "committedAt": "2026-07-25T20:59:22+08:00",
+      "subject": "支持多会话并行处理与一键像素化"
+    },
     {
       "sha": "0caa84bfc30795bd2531589b2e7232d632079bbf",
       "shortSha": "0caa84b",
@@ -13,12 +19,6 @@
       "shortSha": "487d481",
       "committedAt": "2026-07-24T15:27:29+08:00",
       "subject": "自动更新最近会话标题和图标"
-    },
-    {
-      "sha": "52f5fe683b638689703b9db250e62f1cc1a0c70f",
-      "shortSha": "52f5fe6",
-      "committedAt": "2026-07-24T13:28:16+08:00",
-      "subject": "修图场景禁止再问「参考图是什么」"
     }
   ]
 }
