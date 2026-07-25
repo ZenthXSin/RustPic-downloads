@@ -2,6 +2,18 @@
   "versions": [
     {
       "channel": "stable",
+      "versionName": "BETA-40",
+      "versionCode": 40,
+      "publishedAt": "2026-07-25T13:11:50.515440+00:00",
+      "commit": "7a60913759d053ccd81e331c475cdf3320f145b1",
+      "title": "RustPic STABLE-40",
+      "notes": [],
+      "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-40/RustPic-BETA-40-release.apk",
+      "sha256": "87bc57b4044eaadf47a411abdbf5d02e21b8cd7477129cbed4bea072d9c511e8",
+      "minSupportedVersionCode": 1
+    },
+    {
+      "channel": "stable",
       "versionName": "BETA-39",
       "versionCode": 39,
       "publishedAt": "2026-07-24T14:18:01.281589+00:00",
