@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-26T05:09:42.434258+00:00",
+  "generatedAt": "2026-07-26T13:52:43.717439+00:00",
   "commits": [
+    {
+      "sha": "b505ba625352529413c4ec210a447a8173e31eff",
+      "shortSha": "b505ba6",
+      "committedAt": "2026-07-26T21:42:07+08:00",
+      "subject": "调整首次对话提示"
+    },
+    {
+      "sha": "7de617ea82979029faa61f347ef131519236e226",
+      "shortSha": "7de617e",
+      "committedAt": "2026-07-26T21:23:18+08:00",
+      "subject": "更新 Alpha 版本并加入下载站入口"
+    },
     {
       "sha": "b93625097c43650326d8d60afb01b9e224c5d961",
       "shortSha": "b936250",
       "committedAt": "2026-07-26T13:01:26+08:00",
       "subject": "修复回归：会话路由/像素化超时/布局，重写 PerfectPixel + 现代v2集成"
-    },
-    {
-      "sha": "7a60913759d053ccd81e331c475cdf3320f145b1",
-      "shortSha": "7a60913",
-      "committedAt": "2026-07-25T20:59:22+08:00",
-      "subject": "支持多会话并行处理与一键像素化"
-    },
-    {
-      "sha": "0caa84bfc30795bd2531589b2e7232d632079bbf",
-      "shortSha": "0caa84b",
-      "committedAt": "2026-07-24T22:09:51+08:00",
-      "subject": "Replace thought display with transient tool status."
     }
   ]
 }
