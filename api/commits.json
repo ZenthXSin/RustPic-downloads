@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-28T08:24:03.326869+00:00",
+  "generatedAt": "2026-07-28T11:21:36.006576+00:00",
   "commits": [
+    {
+      "sha": "001651c251b2904504be7c4ba49cc1834705b4d6",
+      "shortSha": "001651c",
+      "committedAt": "2026-07-28T19:06:46+08:00",
+      "subject": "静默处理对话超时重试"
+    },
+    {
+      "sha": "7aa2249395a8128959434402e82de22d33528f7a",
+      "shortSha": "7aa2249",
+      "committedAt": "2026-07-28T18:55:23+08:00",
+      "subject": "优化参考图分析与生成流程"
+    },
     {
       "sha": "76bec76914b49f13c04b0eb389ad9e8debb0eaa3",
       "shortSha": "76bec76",
       "committedAt": "2026-07-28T16:15:52+08:00",
       "subject": "添加浅色主题与主题持久化"
-    },
-    {
-      "sha": "e3abe32aba2ccb3e283a70c40902a1f0cb2acc40",
-      "shortSha": "e3abe32",
-      "committedAt": "2026-07-28T15:33:36+08:00",
-      "subject": "同步当前设计文档与会话状态修复"
-    },
-    {
-      "sha": "c25ef7015999f1e36e153975202ec0672340f941",
-      "shortSha": "c25ef70",
-      "committedAt": "2026-07-27T22:32:25+08:00",
-      "subject": "添加分镜与批量图片生成"
     }
   ]
 }
