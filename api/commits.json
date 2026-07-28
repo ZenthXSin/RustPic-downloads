@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-27T14:43:22.659549+00:00",
+  "generatedAt": "2026-07-28T08:24:03.326869+00:00",
   "commits": [
+    {
+      "sha": "76bec76914b49f13c04b0eb389ad9e8debb0eaa3",
+      "shortSha": "76bec76",
+      "committedAt": "2026-07-28T16:15:52+08:00",
+      "subject": "添加浅色主题与主题持久化"
+    },
+    {
+      "sha": "e3abe32aba2ccb3e283a70c40902a1f0cb2acc40",
+      "shortSha": "e3abe32",
+      "committedAt": "2026-07-28T15:33:36+08:00",
+      "subject": "同步当前设计文档与会话状态修复"
+    },
     {
       "sha": "c25ef7015999f1e36e153975202ec0672340f941",
       "shortSha": "c25ef70",
       "committedAt": "2026-07-27T22:32:25+08:00",
       "subject": "添加分镜与批量图片生成"
-    },
-    {
-      "sha": "b505ba625352529413c4ec210a447a8173e31eff",
-      "shortSha": "b505ba6",
-      "committedAt": "2026-07-26T21:42:07+08:00",
-      "subject": "调整首次对话提示"
-    },
-    {
-      "sha": "7de617ea82979029faa61f347ef131519236e226",
-      "shortSha": "7de617e",
-      "committedAt": "2026-07-26T21:23:18+08:00",
-      "subject": "更新 Alpha 版本并加入下载站入口"
     }
   ]
 }
