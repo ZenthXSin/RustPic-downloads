@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-07-29T14:03:18.555068+00:00",
+  "generatedAt": "2026-07-31T14:22:20.547738+00:00",
   "commits": [
+    {
+      "sha": "438b86ae2a4bb866eb975bd2aff3c0ac11df2b1d",
+      "shortSha": "438b86a",
+      "committedAt": "2026-07-31T22:11:33+08:00",
+      "subject": "添加深度思考服务和界面整合"
+    },
     {
       "sha": "b29de613e39a3c5e0781da62f4d34cd8bb265600",
       "shortSha": "b29de61",
@@ -13,12 +19,6 @@
       "shortSha": "26c9dd5",
       "committedAt": "2026-07-28T22:47:54+08:00",
       "subject": "完善 Agent 输出与超时重试流程"
-    },
-    {
-      "sha": "001651c251b2904504be7c4ba49cc1834705b4d6",
-      "shortSha": "001651c",
-      "committedAt": "2026-07-28T19:06:46+08:00",
-      "subject": "静默处理对话超时重试"
     }
   ]
 }
