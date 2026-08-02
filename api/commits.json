@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-02T14:28:44.633179+00:00",
+  "generatedAt": "2026-08-02T14:53:01.329864+00:00",
   "commits": [
+    {
+      "sha": "dbac27e68df16454566cd2034710ce5a2a3c0680",
+      "shortSha": "dbac27e",
+      "committedAt": "2026-08-02T22:45:31+08:00",
+      "subject": "修正测试通道 chatBaseUrl 补充 v1 路径前缀"
+    },
     {
       "sha": "e3643134f933e40c2dde52460be797b7f7afcfd2",
       "shortSha": "e364313",
@@ -13,12 +19,6 @@
       "shortSha": "438b86a",
       "committedAt": "2026-07-31T22:11:33+08:00",
       "subject": "添加深度思考服务和界面整合"
-    },
-    {
-      "sha": "b29de613e39a3c5e0781da62f4d34cd8bb265600",
-      "shortSha": "b29de61",
-      "committedAt": "2026-07-29T21:55:27+08:00",
-      "subject": "完善局部重绘与创作意图理解"
     }
   ]
 }
