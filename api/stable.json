@@ -1,12 +1,12 @@
 {
   "channel": "stable",
-  "versionName": "BETA-49",
-  "versionCode": 49,
-  "publishedAt": "2026-08-02T14:53:01.250718+00:00",
-  "commit": "dbac27e68df16454566cd2034710ce5a2a3c0680",
-  "title": "RustPic STABLE-49",
+  "versionName": "BETA-50",
+  "versionCode": 50,
+  "publishedAt": "2026-08-03T14:14:21.101654+00:00",
+  "commit": "c9f88be89c5d925d44aeb89ef98524f1c9cd04a0",
+  "title": "RustPic STABLE-50",
   "notes": [],
-  "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-49/RustPic-BETA-49-release.apk",
-  "sha256": "1dfcd9083df16f181aee4882df7294baaf943f1e9d0657d701b0667a6de23ab6",
+  "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-50/RustPic-BETA-50-release.apk",
+  "sha256": "ddd1a8425eddfa22655f1e3e1c544df529f04abc37407e710e2a3153fafadeed",
   "minSupportedVersionCode": 1
 }
