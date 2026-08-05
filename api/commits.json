@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-04T05:18:37.366733+00:00",
+  "generatedAt": "2026-08-05T14:40:59.379311+00:00",
   "commits": [
+    {
+      "sha": "0fee97131d914687ffab987e635ff99e8788c732",
+      "shortSha": "0fee971",
+      "committedAt": "2026-08-05T22:31:29+08:00",
+      "subject": "GAMMA-5 工具卡片化与稳定性：报错中文化、生图超时提升至600s、参考图改文件选择器、AI 提示词补充分镜/脚本流程并去除预设选项"
+    },
     {
       "sha": "373ed8a6a81fd50fcf02ad0e301dd2ad81c58e9e",
       "shortSha": "373ed8a",
@@ -13,12 +19,6 @@
       "shortSha": "c9f88be",
       "committedAt": "2026-08-03T22:03:10+08:00",
       "subject": "GAMMA-4 重做渠道系统：动态模型列表、单 API Key、逐模型连通性测试"
-    },
-    {
-      "sha": "dbac27e68df16454566cd2034710ce5a2a3c0680",
-      "shortSha": "dbac27e",
-      "committedAt": "2026-08-02T22:45:31+08:00",
-      "subject": "修正测试通道 chatBaseUrl 补充 v1 路径前缀"
     }
   ]
 }
