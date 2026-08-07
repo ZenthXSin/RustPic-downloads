@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-05T14:40:59.379311+00:00",
+  "generatedAt": "2026-08-07T11:37:13.956636+00:00",
   "commits": [
+    {
+      "sha": "e32989c3d47cbb62e9a77b6d8a76838921aba84a",
+      "shortSha": "e32989c",
+      "committedAt": "2026-08-07T19:28:10+08:00",
+      "subject": "GAMMA-5 迁移应用中心 API 与教程收尾：新遥测（Bearer 密钥、usage 会话生命周期）、更新/公告接口按新文档字段对齐、semver 版本映射，进阶教程锚定 About 页重播按钮"
+    },
     {
       "sha": "0fee97131d914687ffab987e635ff99e8788c732",
       "shortSha": "0fee971",
@@ -13,12 +19,6 @@
       "shortSha": "373ed8a",
       "committedAt": "2026-08-04T13:06:31+08:00",
       "subject": "GAMMA-5 升级 vicky 0.1.68 真实思考链，默认开启深度思考，移除工具同意机制，新增真实密钥联调测试"
-    },
-    {
-      "sha": "c9f88be89c5d925d44aeb89ef98524f1c9cd04a0",
-      "shortSha": "c9f88be",
-      "committedAt": "2026-08-03T22:03:10+08:00",
-      "subject": "GAMMA-4 重做渠道系统：动态模型列表、单 API Key、逐模型连通性测试"
     }
   ]
 }
