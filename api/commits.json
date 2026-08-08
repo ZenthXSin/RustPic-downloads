@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-07T11:37:13.956636+00:00",
+  "generatedAt": "2026-08-08T17:05:50.999529+00:00",
   "commits": [
+    {
+      "sha": "a36988c4e6e426244cc99bbcf9c996cbc18f502f",
+      "shortSha": "a36988c",
+      "committedAt": "2026-08-09T00:54:42+08:00",
+      "subject": "GAMMA-5 更新渠道可选与遥测修复：更新渠道改为用户可选（正式/测试/预览，默认正式版）、更换有效遥测 Bearer 密钥并验证 events/usage 全生命周期 202、更新检查参数保持 platform=android&arch=arm64"
+    },
     {
       "sha": "e32989c3d47cbb62e9a77b6d8a76838921aba84a",
       "shortSha": "e32989c",
@@ -13,12 +19,6 @@
       "shortSha": "0fee971",
       "committedAt": "2026-08-05T22:31:29+08:00",
       "subject": "GAMMA-5 工具卡片化与稳定性：报错中文化、生图超时提升至600s、参考图改文件选择器、AI 提示词补充分镜/脚本流程并去除预设选项"
-    },
-    {
-      "sha": "373ed8a6a81fd50fcf02ad0e301dd2ad81c58e9e",
-      "shortSha": "373ed8a",
-      "committedAt": "2026-08-04T13:06:31+08:00",
-      "subject": "GAMMA-5 升级 vicky 0.1.68 真实思考链，默认开启深度思考，移除工具同意机制，新增真实密钥联调测试"
     }
   ]
 }
