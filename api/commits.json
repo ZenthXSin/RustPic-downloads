@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-08T17:05:50.999529+00:00",
+  "generatedAt": "2026-08-08T17:27:36.759686+00:00",
   "commits": [
+    {
+      "sha": "2db9260d255c66e1d2556dd077c44ed04b1e516e",
+      "shortSha": "2db9260",
+      "committedAt": "2026-08-09T01:19:02+08:00",
+      "subject": "GAMMA-5 工作台主页与功能注册机制：新增 HOME 默认落地页（继续上次会话/新建创作/最近会话/最近生成/所有功能分类目录），建立 workbench FeatureDefinition/FeatureRegistry 注册机制为后续功能模块化铺路，二级页面返回目标与进入来源一致"
+    },
     {
       "sha": "a36988c4e6e426244cc99bbcf9c996cbc18f502f",
       "shortSha": "a36988c",
@@ -13,12 +19,6 @@
       "shortSha": "e32989c",
       "committedAt": "2026-08-07T19:28:10+08:00",
       "subject": "GAMMA-5 迁移应用中心 API 与教程收尾：新遥测（Bearer 密钥、usage 会话生命周期）、更新/公告接口按新文档字段对齐、semver 版本映射，进阶教程锚定 About 页重播按钮"
-    },
-    {
-      "sha": "0fee97131d914687ffab987e635ff99e8788c732",
-      "shortSha": "0fee971",
-      "committedAt": "2026-08-05T22:31:29+08:00",
-      "subject": "GAMMA-5 工具卡片化与稳定性：报错中文化、生图超时提升至600s、参考图改文件选择器、AI 提示词补充分镜/脚本流程并去除预设选项"
     }
   ]
 }
