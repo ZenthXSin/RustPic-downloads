@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-09T00:04:51.711746+00:00",
+  "generatedAt": "2026-08-09T01:24:03.395932+00:00",
   "commits": [
+    {
+      "sha": "3d573dc0f98d65475ba6158cc14ad7eae6e85cb9",
+      "shortSha": "3d573dc",
+      "committedAt": "2026-08-09T09:15:07+08:00",
+      "subject": "更换遥测 Bearer 密钥"
+    },
     {
       "sha": "ebe9229a76af4b0bba4c5cdeffa6cdfa3c203ba6",
       "shortSha": "ebe9229",
@@ -13,12 +19,6 @@
       "shortSha": "2db9260",
       "committedAt": "2026-08-09T01:19:02+08:00",
       "subject": "GAMMA-5 工作台主页与功能注册机制：新增 HOME 默认落地页（继续上次会话/新建创作/最近会话/最近生成/所有功能分类目录），建立 workbench FeatureDefinition/FeatureRegistry 注册机制为后续功能模块化铺路，二级页面返回目标与进入来源一致"
-    },
-    {
-      "sha": "a36988c4e6e426244cc99bbcf9c996cbc18f502f",
-      "shortSha": "a36988c",
-      "committedAt": "2026-08-09T00:54:42+08:00",
-      "subject": "GAMMA-5 更新渠道可选与遥测修复：更新渠道改为用户可选（正式/测试/预览，默认正式版）、更换有效遥测 Bearer 密钥并验证 events/usage 全生命周期 202、更新检查参数保持 platform=android&arch=arm64"
     }
   ]
 }
