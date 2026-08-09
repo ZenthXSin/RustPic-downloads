@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-09T02:36:07.119359+00:00",
+  "generatedAt": "2026-08-09T02:39:58.152890+00:00",
   "commits": [
+    {
+      "sha": "2ecb5cdb856f073d3e0d623e708da8b1369cbd9b",
+      "shortSha": "2ecb5cd",
+      "committedAt": "2026-08-09T10:28:32+08:00",
+      "subject": "版本号升至 1.0.4"
+    },
     {
       "sha": "aa54879ec64fddb904726ec4e3adf67c4c82b49c",
       "shortSha": "aa54879",
@@ -13,12 +19,6 @@
       "shortSha": "3d573dc",
       "committedAt": "2026-08-09T09:15:07+08:00",
       "subject": "更换遥测 Bearer 密钥"
-    },
-    {
-      "sha": "ebe9229a76af4b0bba4c5cdeffa6cdfa3c203ba6",
-      "shortSha": "ebe9229",
-      "committedAt": "2026-08-09T07:57:40+08:00",
-      "subject": "工作台功能依赖元数据与工作区上下文模型"
     }
   ]
 }
