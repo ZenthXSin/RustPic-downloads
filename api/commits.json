@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-09T05:40:17.390513+00:00",
+  "generatedAt": "2026-08-09T05:43:48.502458+00:00",
   "commits": [
+    {
+      "sha": "2912d963e73703af8b9107f4096b1277ac7423d4",
+      "shortSha": "2912d96",
+      "committedAt": "2026-08-09T13:32:54+08:00",
+      "subject": "版本号升至 1.0.5"
+    },
     {
       "sha": "291f2237603b9bc9d15a60fdcda73dfbab9c366e",
       "shortSha": "291f223",
@@ -13,12 +19,6 @@
       "shortSha": "abce804",
       "committedAt": "2026-08-09T10:55:30+08:00",
       "subject": "移除 2053 加速节点，模型服务仅保留 20082 主站"
-    },
-    {
-      "sha": "01b97727d53f977c500ab2cc156534e73a0ddcba",
-      "shortSha": "01b9772",
-      "committedAt": "2026-08-09T10:46:19+08:00",
-      "subject": "提问触发改为纯 AI 自主调用：移除回复文本的硬编码问句检测与重路由，强化系统提示词声明无外部拦截、AI 为唯一发起者"
     }
   ]
 }
