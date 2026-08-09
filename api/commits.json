@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-09T01:24:03.395932+00:00",
+  "generatedAt": "2026-08-09T02:36:07.119359+00:00",
   "commits": [
+    {
+      "sha": "aa54879ec64fddb904726ec4e3adf67c4c82b49c",
+      "shortSha": "aa54879",
+      "committedAt": "2026-08-09T10:28:30+08:00",
+      "subject": "更新渠道固定为正式版：移除设置页渠道选择与相关状态，更新/公告检查统一使用 stable"
+    },
     {
       "sha": "3d573dc0f98d65475ba6158cc14ad7eae6e85cb9",
       "shortSha": "3d573dc",
@@ -13,12 +19,6 @@
       "shortSha": "ebe9229",
       "committedAt": "2026-08-09T07:57:40+08:00",
       "subject": "工作台功能依赖元数据与工作区上下文模型"
-    },
-    {
-      "sha": "2db9260d255c66e1d2556dd077c44ed04b1e516e",
-      "shortSha": "2db9260",
-      "committedAt": "2026-08-09T01:19:02+08:00",
-      "subject": "GAMMA-5 工作台主页与功能注册机制：新增 HOME 默认落地页（继续上次会话/新建创作/最近会话/最近生成/所有功能分类目录），建立 workbench FeatureDefinition/FeatureRegistry 注册机制为后续功能模块化铺路，二级页面返回目标与进入来源一致"
     }
   ]
 }
