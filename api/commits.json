@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-09T02:56:28.613640+00:00",
+  "generatedAt": "2026-08-09T03:04:50.339449+00:00",
   "commits": [
+    {
+      "sha": "abce8046477831e69d1bc0d6125922058dea8805",
+      "shortSha": "abce804",
+      "committedAt": "2026-08-09T10:55:30+08:00",
+      "subject": "移除 2053 加速节点，模型服务仅保留 20082 主站"
+    },
     {
       "sha": "01b97727d53f977c500ab2cc156534e73a0ddcba",
       "shortSha": "01b9772",
@@ -13,12 +19,6 @@
       "shortSha": "2ecb5cd",
       "committedAt": "2026-08-09T10:28:32+08:00",
       "subject": "版本号升至 1.0.4"
-    },
-    {
-      "sha": "aa54879ec64fddb904726ec4e3adf67c4c82b49c",
-      "shortSha": "aa54879",
-      "committedAt": "2026-08-09T10:28:30+08:00",
-      "subject": "更新渠道固定为正式版：移除设置页渠道选择与相关状态，更新/公告检查统一使用 stable"
     }
   ]
 }
