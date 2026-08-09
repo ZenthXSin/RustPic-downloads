@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-08T17:27:36.759686+00:00",
+  "generatedAt": "2026-08-09T00:04:51.711746+00:00",
   "commits": [
+    {
+      "sha": "ebe9229a76af4b0bba4c5cdeffa6cdfa3c203ba6",
+      "shortSha": "ebe9229",
+      "committedAt": "2026-08-09T07:57:40+08:00",
+      "subject": "工作台功能依赖元数据与工作区上下文模型"
+    },
     {
       "sha": "2db9260d255c66e1d2556dd077c44ed04b1e516e",
       "shortSha": "2db9260",
@@ -13,12 +19,6 @@
       "shortSha": "a36988c",
       "committedAt": "2026-08-09T00:54:42+08:00",
       "subject": "GAMMA-5 更新渠道可选与遥测修复：更新渠道改为用户可选（正式/测试/预览，默认正式版）、更换有效遥测 Bearer 密钥并验证 events/usage 全生命周期 202、更新检查参数保持 platform=android&arch=arm64"
-    },
-    {
-      "sha": "e32989c3d47cbb62e9a77b6d8a76838921aba84a",
-      "shortSha": "e32989c",
-      "committedAt": "2026-08-07T19:28:10+08:00",
-      "subject": "GAMMA-5 迁移应用中心 API 与教程收尾：新遥测（Bearer 密钥、usage 会话生命周期）、更新/公告接口按新文档字段对齐、semver 版本映射，进阶教程锚定 About 页重播按钮"
     }
   ]
 }
