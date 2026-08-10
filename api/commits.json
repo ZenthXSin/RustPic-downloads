@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-10T05:08:58.799202+00:00",
+  "generatedAt": "2026-08-10T05:23:10.648362+00:00",
   "commits": [
+    {
+      "sha": "c4efad8ed5d0d82b136ad9770fc7c402fff0ad18",
+      "shortSha": "c4efad8",
+      "committedAt": "2026-08-10T13:15:29+08:00",
+      "subject": "所有功能改为敬请期待：功能注册全部 NotYetAvailable 进占位页，新建创作保留"
+    },
     {
       "sha": "b270e114a44f3f796a844b142a1d957be9601c68",
       "shortSha": "b270e11",
@@ -13,12 +19,6 @@
       "shortSha": "1cdd4b1",
       "committedAt": "2026-08-10T12:57:32+08:00",
       "subject": "工作台主页单屏零滚动重构：Hero 卡+主按钮+最近生成缩略图+9 宫格功能网格"
-    },
-    {
-      "sha": "40cc6508e090c83172e1e06e8b5f98b9a47bdcef",
-      "shortSha": "40cc650",
-      "committedAt": "2026-08-10T12:57:32+08:00",
-      "subject": "工作台功能宿主页与导航机制：占位功能进入 FEATURE_HOST 宿主页、navigationFor 统一导航，启动后自动静默检测更新（新版本才弹窗）"
     }
   ]
 }
