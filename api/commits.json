@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-10T05:23:10.648362+00:00",
+  "generatedAt": "2026-08-10T05:56:23.040553+00:00",
   "commits": [
+    {
+      "sha": "e796d3b9a800641dac0d857ef3ed64f52d0f332d",
+      "shortSha": "e796d3b",
+      "committedAt": "2026-08-10T13:47:08+08:00",
+      "subject": "修复设置页返回：子页面返回键先回设置主页，设置主页返回来源页而非退出"
+    },
     {
       "sha": "c4efad8ed5d0d82b136ad9770fc7c402fff0ad18",
       "shortSha": "c4efad8",
@@ -13,12 +19,6 @@
       "shortSha": "b270e11",
       "committedAt": "2026-08-10T12:57:32+08:00",
       "subject": "版本号升至 1.0.6"
-    },
-    {
-      "sha": "1cdd4b11f365c22c99c2332c81dec6e0ae142345",
-      "shortSha": "1cdd4b1",
-      "committedAt": "2026-08-10T12:57:32+08:00",
-      "subject": "工作台主页单屏零滚动重构：Hero 卡+主按钮+最近生成缩略图+9 宫格功能网格"
     }
   ]
 }
