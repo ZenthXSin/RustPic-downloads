@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-09T05:53:57.049203+00:00",
+  "generatedAt": "2026-08-10T05:08:58.799202+00:00",
   "commits": [
     {
-      "sha": "242c1dfcd9fc31394a98d004faa762f5f9430838",
-      "shortSha": "242c1df",
-      "committedAt": "2026-08-09T13:45:00+08:00",
-      "subject": "工作台功能条目接入工作区上下文：按会话与参考图前置条件状态化"
+      "sha": "b270e114a44f3f796a844b142a1d957be9601c68",
+      "shortSha": "b270e11",
+      "committedAt": "2026-08-10T12:57:32+08:00",
+      "subject": "版本号升至 1.0.6"
     },
     {
-      "sha": "2912d963e73703af8b9107f4096b1277ac7423d4",
-      "shortSha": "2912d96",
-      "committedAt": "2026-08-09T13:32:54+08:00",
-      "subject": "版本号升至 1.0.5"
+      "sha": "1cdd4b11f365c22c99c2332c81dec6e0ae142345",
+      "shortSha": "1cdd4b1",
+      "committedAt": "2026-08-10T12:57:32+08:00",
+      "subject": "工作台主页单屏零滚动重构：Hero 卡+主按钮+最近生成缩略图+9 宫格功能网格"
     },
     {
-      "sha": "291f2237603b9bc9d15a60fdcda73dfbab9c366e",
-      "shortSha": "291f223",
-      "committedAt": "2026-08-09T13:31:47+08:00",
-      "subject": "工作台主页信息架构重构：卡片化布局、新建创作模式选择、最近会话按真实时间戳排序、占位功能折叠、查看全部入口"
+      "sha": "40cc6508e090c83172e1e06e8b5f98b9a47bdcef",
+      "shortSha": "40cc650",
+      "committedAt": "2026-08-10T12:57:32+08:00",
+      "subject": "工作台功能宿主页与导航机制：占位功能进入 FEATURE_HOST 宿主页、navigationFor 统一导航，启动后自动静默检测更新（新版本才弹窗）"
     }
   ]
 }
