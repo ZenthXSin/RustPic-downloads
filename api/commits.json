@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-10T05:56:23.040553+00:00",
+  "generatedAt": "2026-08-10T06:11:07.995492+00:00",
   "commits": [
+    {
+      "sha": "f2247504fbca3d17d0e791ccd4abf94ead164d9b",
+      "shortSha": "f224750",
+      "committedAt": "2026-08-10T14:02:17+08:00",
+      "subject": "功能点击改为介绍弹窗：点击显示图标与介绍，进入按钮才跳转，网格项不再显示介绍文字"
+    },
     {
       "sha": "e796d3b9a800641dac0d857ef3ed64f52d0f332d",
       "shortSha": "e796d3b",
@@ -13,12 +19,6 @@
       "shortSha": "c4efad8",
       "committedAt": "2026-08-10T13:15:29+08:00",
       "subject": "所有功能改为敬请期待：功能注册全部 NotYetAvailable 进占位页，新建创作保留"
-    },
-    {
-      "sha": "b270e114a44f3f796a844b142a1d957be9601c68",
-      "shortSha": "b270e11",
-      "committedAt": "2026-08-10T12:57:32+08:00",
-      "subject": "版本号升至 1.0.6"
     }
   ]
 }
