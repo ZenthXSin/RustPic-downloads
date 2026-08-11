@@ -2,6 +2,18 @@
   "versions": [
     {
       "channel": "beta",
+      "versionName": "BETA-72",
+      "versionCode": 72,
+      "publishedAt": "2026-08-11T12:12:12.970844+00:00",
+      "commit": "07483942f243880fb61ccb84f7d1e1536c5f17ff",
+      "title": "RustPic BETA-72",
+      "notes": [],
+      "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-72/RustPic-BETA-72-release.apk",
+      "sha256": "7c6aff09d85731c5a0e98d946cde77975c005fd0c648b678938c64a76899e286",
+      "minSupportedVersionCode": 1
+    },
+    {
+      "channel": "beta",
       "versionName": "BETA-71",
       "versionCode": 71,
       "publishedAt": "2026-08-11T09:45:38.731711+00:00",
@@ -586,18 +598,6 @@
       "notes": [],
       "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-22/RustPic-BETA-22-release.apk",
       "sha256": "c84bc5639c3a59fc1b0827ace787beecc526817b20740b5b686bf7aa95f4fb43",
-      "minSupportedVersionCode": 1
-    },
-    {
-      "channel": "beta",
-      "versionName": "BETA-21",
-      "versionCode": 21,
-      "publishedAt": "2026-07-19T06:31:24.059202+00:00",
-      "commit": "7f58aa3c39ef59ce369509d50d78099efa2cad0b",
-      "title": "RustPic BETA-21",
-      "notes": [],
-      "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-21/RustPic-BETA-21-release.apk",
-      "sha256": "38400ef2664174e364db453d7845701d04a6c3b895e4de1521af3e98709bc577",
       "minSupportedVersionCode": 1
     }
   ]
