@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-11T12:12:13.002713+00:00",
+  "generatedAt": "2026-08-11T14:51:59.190604+00:00",
   "commits": [
+    {
+      "sha": "e9e40b57c44534ed8e11a2344f3d2d344097fc3b",
+      "shortSha": "e9e40b5",
+      "committedAt": "2026-08-11T22:43:17+08:00",
+      "subject": "减少工具调用提示：低价值与只读工具不再生成调用卡片"
+    },
     {
       "sha": "07483942f243880fb61ccb84f7d1e1536c5f17ff",
       "shortSha": "0748394",
@@ -13,12 +19,6 @@
       "shortSha": "a2ed0f9",
       "committedAt": "2026-08-11T17:36:23+08:00",
       "subject": "移除自动关闭技能机制：技能不再因任务不匹配自动关闭，删除建议策略/徽标/持久化与提示词规则"
-    },
-    {
-      "sha": "d074e12e6181878608450975d19fc1f4f4bd5ad8",
-      "shortSha": "d074e12",
-      "committedAt": "2026-08-11T15:50:16+08:00",
-      "subject": "版本号升至 1.0.7"
     }
   ]
 }
