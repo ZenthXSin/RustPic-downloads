@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-11T14:51:59.190604+00:00",
+  "generatedAt": "2026-08-11T14:57:58.611020+00:00",
   "commits": [
+    {
+      "sha": "8b84724a23fe7474f06f83dcd032f07de42d9639",
+      "shortSha": "8b84724",
+      "committedAt": "2026-08-11T22:46:58+08:00",
+      "subject": "版本号升至 1.0.8"
+    },
     {
       "sha": "e9e40b57c44534ed8e11a2344f3d2d344097fc3b",
       "shortSha": "e9e40b5",
@@ -13,12 +19,6 @@
       "shortSha": "0748394",
       "committedAt": "2026-08-11T20:03:24+08:00",
       "subject": "移除深度思考实验性功能：删除 DeepThinkingService/DeepReasonTool 及开关状态/UI/提示词/测试，清理残留文案"
-    },
-    {
-      "sha": "a2ed0f9dde53a4477b831444a834e5a66fc1bc14",
-      "shortSha": "a2ed0f9",
-      "committedAt": "2026-08-11T17:36:23+08:00",
-      "subject": "移除自动关闭技能机制：技能不再因任务不匹配自动关闭，删除建议策略/徽标/持久化与提示词规则"
     }
   ]
 }
