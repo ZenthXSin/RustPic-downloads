@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-12T03:27:53.490634+00:00",
+  "generatedAt": "2026-08-12T03:34:45.536588+00:00",
   "commits": [
+    {
+      "sha": "03a14c538d6750e178e2f411e10e07711aca794b",
+      "shortSha": "03a14c5",
+      "committedAt": "2026-08-12T11:23:46+08:00",
+      "subject": "升级 vicky-core/vicky-script 至 0.1.70：lazyToolSchema 首轮保留必填参数完整 schema，修复模型不主动调用前置工具"
+    },
     {
       "sha": "d81437862cd858b634f2c5408d68d9dfa6b895f4",
       "shortSha": "d814378",
@@ -13,12 +19,6 @@
       "shortSha": "8b84724",
       "committedAt": "2026-08-11T22:46:58+08:00",
       "subject": "版本号升至 1.0.8"
-    },
-    {
-      "sha": "e9e40b57c44534ed8e11a2344f3d2d344097fc3b",
-      "shortSha": "e9e40b5",
-      "committedAt": "2026-08-11T22:43:17+08:00",
-      "subject": "减少工具调用提示：低价值与只读工具不再生成调用卡片"
     }
   ]
 }
