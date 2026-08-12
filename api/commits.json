@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-12T13:55:01.038449+00:00",
+  "generatedAt": "2026-08-12T14:33:06.551969+00:00",
   "commits": [
+    {
+      "sha": "d09678583d0cd38f964264c00c3ff393ba2d2ee1",
+      "shortSha": "d096785",
+      "committedAt": "2026-08-12T22:21:48+08:00",
+      "subject": "矢量图形与帧动画页面支持切换语言模型；版本号升至 1.0.11"
+    },
     {
       "sha": "7941efb25b88ea0f9ec4c47e78ea757c6bfabdce",
       "shortSha": "7941efb",
@@ -13,12 +19,6 @@
       "shortSha": "351cb17",
       "committedAt": "2026-08-12T21:25:58+08:00",
       "subject": "新增矢量图形与帧动画功能，版本号升至 1.0.10"
-    },
-    {
-      "sha": "ec8edc5caab4d615ecd095f01fd7b23b1e1eadf3",
-      "shortSha": "ec8edc5",
-      "committedAt": "2026-08-12T21:10:44+08:00",
-      "subject": "版本号升至 1.0.9"
     }
   ]
 }
