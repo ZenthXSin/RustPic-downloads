@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-12T03:34:45.536588+00:00",
+  "generatedAt": "2026-08-12T13:21:47.344868+00:00",
   "commits": [
+    {
+      "sha": "ec8edc5caab4d615ecd095f01fd7b23b1e1eadf3",
+      "shortSha": "ec8edc5",
+      "committedAt": "2026-08-12T21:10:44+08:00",
+      "subject": "版本号升至 1.0.9"
+    },
     {
       "sha": "03a14c538d6750e178e2f411e10e07711aca794b",
       "shortSha": "03a14c5",
@@ -13,12 +19,6 @@
       "shortSha": "d814378",
       "committedAt": "2026-08-12T11:20:13+08:00",
       "subject": "内置需求访谈技能：创作前必读全部技能，模糊需求先访谈澄清并沉淀设计决策"
-    },
-    {
-      "sha": "8b84724a23fe7474f06f83dcd032f07de42d9639",
-      "shortSha": "8b84724",
-      "committedAt": "2026-08-11T22:46:58+08:00",
-      "subject": "版本号升至 1.0.8"
     }
   ]
 }
