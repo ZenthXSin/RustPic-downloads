@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-12T13:39:17.588775+00:00",
+  "generatedAt": "2026-08-12T13:55:01.038449+00:00",
   "commits": [
+    {
+      "sha": "7941efb25b88ea0f9ec4c47e78ea757c6bfabdce",
+      "shortSha": "7941efb",
+      "committedAt": "2026-08-12T21:45:14+08:00",
+      "subject": "矢量图形与帧动画改为实验性功能：默认关闭、访问密钥开启，未开启时入口提示不可进入"
+    },
     {
       "sha": "351cb17a9edc77503790f6b3a4021540d501e9c4",
       "shortSha": "351cb17",
@@ -13,12 +19,6 @@
       "shortSha": "ec8edc5",
       "committedAt": "2026-08-12T21:10:44+08:00",
       "subject": "版本号升至 1.0.9"
-    },
-    {
-      "sha": "03a14c538d6750e178e2f411e10e07711aca794b",
-      "shortSha": "03a14c5",
-      "committedAt": "2026-08-12T11:23:46+08:00",
-      "subject": "升级 vicky-core/vicky-script 至 0.1.70：lazyToolSchema 首轮保留必填参数完整 schema，修复模型不主动调用前置工具"
     }
   ]
 }
