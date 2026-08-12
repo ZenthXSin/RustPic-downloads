@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-11T14:57:58.611020+00:00",
+  "generatedAt": "2026-08-12T03:27:53.490634+00:00",
   "commits": [
+    {
+      "sha": "d81437862cd858b634f2c5408d68d9dfa6b895f4",
+      "shortSha": "d814378",
+      "committedAt": "2026-08-12T11:20:13+08:00",
+      "subject": "内置需求访谈技能：创作前必读全部技能，模糊需求先访谈澄清并沉淀设计决策"
+    },
     {
       "sha": "8b84724a23fe7474f06f83dcd032f07de42d9639",
       "shortSha": "8b84724",
@@ -13,12 +19,6 @@
       "shortSha": "e9e40b5",
       "committedAt": "2026-08-11T22:43:17+08:00",
       "subject": "减少工具调用提示：低价值与只读工具不再生成调用卡片"
-    },
-    {
-      "sha": "07483942f243880fb61ccb84f7d1e1536c5f17ff",
-      "shortSha": "0748394",
-      "committedAt": "2026-08-11T20:03:24+08:00",
-      "subject": "移除深度思考实验性功能：删除 DeepThinkingService/DeepReasonTool 及开关状态/UI/提示词/测试，清理残留文案"
     }
   ]
 }
