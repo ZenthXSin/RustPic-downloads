@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-12T14:47:17.134614+00:00",
+  "generatedAt": "2026-08-12T17:01:31.076261+00:00",
   "commits": [
+    {
+      "sha": "9207bfa2d83fd37d1fe1dd348ee1a11bab597324",
+      "shortSha": "9207bfa",
+      "committedAt": "2026-08-13T00:51:04+08:00",
+      "subject": "升级 vicky-core/vicky-script 至 0.1.71：OpenAI 流式请求 ktor 直连，非 2xx 透传真实错误"
+    },
+    {
+      "sha": "4bdf4e2c210174e819bd1a41c5f15d06bda595c0",
+      "shortSha": "4bdf4e2",
+      "committedAt": "2026-08-12T22:40:26+08:00",
+      "subject": "Revert \"修复 v2 像素化参数失效：MODERN_V2 改用 convertToPixelArtV2 完整应用网格/块/覆盖阈值参数\""
+    },
     {
       "sha": "e5a14b0c1a87164cdaa57fe0300f5eb921d3e93c",
       "shortSha": "e5a14b0",
       "committedAt": "2026-08-12T22:38:26+08:00",
       "subject": "修复 v2 像素化参数失效：MODERN_V2 改用 convertToPixelArtV2 完整应用网格/块/覆盖阈值参数"
-    },
-    {
-      "sha": "d09678583d0cd38f964264c00c3ff393ba2d2ee1",
-      "shortSha": "d096785",
-      "committedAt": "2026-08-12T22:21:48+08:00",
-      "subject": "矢量图形与帧动画页面支持切换语言模型；版本号升至 1.0.11"
-    },
-    {
-      "sha": "7941efb25b88ea0f9ec4c47e78ea757c6bfabdce",
-      "shortSha": "7941efb",
-      "committedAt": "2026-08-12T21:45:14+08:00",
-      "subject": "矢量图形与帧动画改为实验性功能：默认关闭、访问密钥开启，未开启时入口提示不可进入"
     }
   ]
 }
