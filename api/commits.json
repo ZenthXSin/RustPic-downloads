@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-12T13:21:47.344868+00:00",
+  "generatedAt": "2026-08-12T13:39:17.588775+00:00",
   "commits": [
+    {
+      "sha": "351cb17a9edc77503790f6b3a4021540d501e9c4",
+      "shortSha": "351cb17",
+      "committedAt": "2026-08-12T21:25:58+08:00",
+      "subject": "新增矢量图形与帧动画功能，版本号升至 1.0.10"
+    },
     {
       "sha": "ec8edc5caab4d615ecd095f01fd7b23b1e1eadf3",
       "shortSha": "ec8edc5",
@@ -13,12 +19,6 @@
       "shortSha": "03a14c5",
       "committedAt": "2026-08-12T11:23:46+08:00",
       "subject": "升级 vicky-core/vicky-script 至 0.1.70：lazyToolSchema 首轮保留必填参数完整 schema，修复模型不主动调用前置工具"
-    },
-    {
-      "sha": "d81437862cd858b634f2c5408d68d9dfa6b895f4",
-      "shortSha": "d814378",
-      "committedAt": "2026-08-12T11:20:13+08:00",
-      "subject": "内置需求访谈技能：创作前必读全部技能，模糊需求先访谈澄清并沉淀设计决策"
     }
   ]
 }
