@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-12T14:33:06.551969+00:00",
+  "generatedAt": "2026-08-12T14:47:17.134614+00:00",
   "commits": [
+    {
+      "sha": "e5a14b0c1a87164cdaa57fe0300f5eb921d3e93c",
+      "shortSha": "e5a14b0",
+      "committedAt": "2026-08-12T22:38:26+08:00",
+      "subject": "修复 v2 像素化参数失效：MODERN_V2 改用 convertToPixelArtV2 完整应用网格/块/覆盖阈值参数"
+    },
     {
       "sha": "d09678583d0cd38f964264c00c3ff393ba2d2ee1",
       "shortSha": "d096785",
@@ -13,12 +19,6 @@
       "shortSha": "7941efb",
       "committedAt": "2026-08-12T21:45:14+08:00",
       "subject": "矢量图形与帧动画改为实验性功能：默认关闭、访问密钥开启，未开启时入口提示不可进入"
-    },
-    {
-      "sha": "351cb17a9edc77503790f6b3a4021540d501e9c4",
-      "shortSha": "351cb17",
-      "committedAt": "2026-08-12T21:25:58+08:00",
-      "subject": "新增矢量图形与帧动画功能，版本号升至 1.0.10"
     }
   ]
 }
