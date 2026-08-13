@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-13T11:14:25.635022+00:00",
+  "generatedAt": "2026-08-13T12:48:14.415863+00:00",
   "commits": [
+    {
+      "sha": "bae87db17256cc27bb2b396162d10a1fd1a1ea7e",
+      "shortSha": "bae87db",
+      "committedAt": "2026-08-13T20:39:00+08:00",
+      "subject": "提升 SVG 生成质量：生成服务提示词加入视觉质量规则，agent 调用工具时要求完整设计规格"
+    },
     {
       "sha": "35521f9e51764452c9f648df1606cf3b90ae691f",
       "shortSha": "35521f9",
@@ -13,12 +19,6 @@
       "shortSha": "b98ba12",
       "committedAt": "2026-08-13T18:47:34+08:00",
       "subject": "LLM 请求超时提升至 300 秒：真实 API 实测复杂 SVG 流式生成需 115 秒"
-    },
-    {
-      "sha": "4666fafa587e2d3902862147b9cb06bc5335daf8",
-      "shortSha": "4666faf",
-      "committedAt": "2026-08-13T16:32:41+08:00",
-      "subject": "内置 SVG 设计技能：设计规范（运行时能力边界）与图标 Logo 设计方法"
     }
   ]
 }
