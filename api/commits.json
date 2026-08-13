@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-13T13:58:44.548014+00:00",
+  "generatedAt": "2026-08-13T14:07:21.900412+00:00",
   "commits": [
+    {
+      "sha": "1ea5b465be23641f1da11e2fb3cd969aa449a3d5",
+      "shortSha": "1ea5b46",
+      "committedAt": "2026-08-13T21:57:46+08:00",
+      "subject": "新增 SVG 质量技能组：配色理论、插画风格、构图与细节"
+    },
     {
       "sha": "a0666d496fbb365293e80db3bbf47ae506e5d248",
       "shortSha": "a0666d4",
@@ -13,12 +19,6 @@
       "shortSha": "bae87db",
       "committedAt": "2026-08-13T20:39:00+08:00",
       "subject": "提升 SVG 生成质量：生成服务提示词加入视觉质量规则，agent 调用工具时要求完整设计规格"
-    },
-    {
-      "sha": "35521f9e51764452c9f648df1606cf3b90ae691f",
-      "shortSha": "35521f9",
-      "committedAt": "2026-08-13T19:02:03+08:00",
-      "subject": "升级 vicky-core/vicky-script 至 0.1.73：HttpClient 网络超时配置（消除 OkHttp 10s 读超时断流）"
     }
   ]
 }
