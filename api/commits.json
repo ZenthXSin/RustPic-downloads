@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-13T10:57:21.449580+00:00",
+  "generatedAt": "2026-08-13T11:14:25.635022+00:00",
   "commits": [
+    {
+      "sha": "35521f9e51764452c9f648df1606cf3b90ae691f",
+      "shortSha": "35521f9",
+      "committedAt": "2026-08-13T19:02:03+08:00",
+      "subject": "升级 vicky-core/vicky-script 至 0.1.73：HttpClient 网络超时配置（消除 OkHttp 10s 读超时断流）"
+    },
     {
       "sha": "b98ba125354031fee7d15beb9ee4e13e028fcc50",
       "shortSha": "b98ba12",
@@ -13,12 +19,6 @@
       "shortSha": "4666faf",
       "committedAt": "2026-08-13T16:32:41+08:00",
       "subject": "内置 SVG 设计技能：设计规范（运行时能力边界）与图标 Logo 设计方法"
-    },
-    {
-      "sha": "8756ad8149d53901bf72eb7723a670bf5113fb0b",
-      "shortSha": "8756ad8",
-      "committedAt": "2026-08-13T16:25:44+08:00",
-      "subject": "版本号升至 1.0.15"
     }
   ]
 }
