@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-12T17:01:31.076261+00:00",
+  "generatedAt": "2026-08-13T06:06:44.694274+00:00",
   "commits": [
+    {
+      "sha": "b5427b141c80c7446d8b7e25db4dcf6d22cf0153",
+      "shortSha": "b5427b1",
+      "committedAt": "2026-08-13T13:56:21+08:00",
+      "subject": "制作 SVG 工具化：新增 generate_svg Agent 工具，矢量图形入口改为工作区预填引导提示词"
+    },
     {
       "sha": "9207bfa2d83fd37d1fe1dd348ee1a11bab597324",
       "shortSha": "9207bfa",
@@ -13,12 +19,6 @@
       "shortSha": "4bdf4e2",
       "committedAt": "2026-08-12T22:40:26+08:00",
       "subject": "Revert \"修复 v2 像素化参数失效：MODERN_V2 改用 convertToPixelArtV2 完整应用网格/块/覆盖阈值参数\""
-    },
-    {
-      "sha": "e5a14b0c1a87164cdaa57fe0300f5eb921d3e93c",
-      "shortSha": "e5a14b0",
-      "committedAt": "2026-08-12T22:38:26+08:00",
-      "subject": "修复 v2 像素化参数失效：MODERN_V2 改用 convertToPixelArtV2 完整应用网格/块/覆盖阈值参数"
     }
   ]
 }
