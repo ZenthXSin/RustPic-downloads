@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-13T12:48:14.415863+00:00",
+  "generatedAt": "2026-08-13T13:58:44.548014+00:00",
   "commits": [
+    {
+      "sha": "a0666d496fbb365293e80db3bbf47ae506e5d248",
+      "shortSha": "a0666d4",
+      "committedAt": "2026-08-13T21:49:56+08:00",
+      "subject": "SVG 由工作区 AI 直接生成：工具改为提交校验型，agent 应用完整技能编写 SVG 代码"
+    },
     {
       "sha": "bae87db17256cc27bb2b396162d10a1fd1a1ea7e",
       "shortSha": "bae87db",
@@ -13,12 +19,6 @@
       "shortSha": "35521f9",
       "committedAt": "2026-08-13T19:02:03+08:00",
       "subject": "升级 vicky-core/vicky-script 至 0.1.73：HttpClient 网络超时配置（消除 OkHttp 10s 读超时断流）"
-    },
-    {
-      "sha": "b98ba125354031fee7d15beb9ee4e13e028fcc50",
-      "shortSha": "b98ba12",
-      "committedAt": "2026-08-13T18:47:34+08:00",
-      "subject": "LLM 请求超时提升至 300 秒：真实 API 实测复杂 SVG 流式生成需 115 秒"
     }
   ]
 }
