@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-13T08:44:05.673543+00:00",
+  "generatedAt": "2026-08-13T10:57:21.449580+00:00",
   "commits": [
+    {
+      "sha": "b98ba125354031fee7d15beb9ee4e13e028fcc50",
+      "shortSha": "b98ba12",
+      "committedAt": "2026-08-13T18:47:34+08:00",
+      "subject": "LLM 请求超时提升至 300 秒：真实 API 实测复杂 SVG 流式生成需 115 秒"
+    },
     {
       "sha": "4666fafa587e2d3902862147b9cb06bc5335daf8",
       "shortSha": "4666faf",
@@ -13,12 +19,6 @@
       "shortSha": "8756ad8",
       "committedAt": "2026-08-13T16:25:44+08:00",
       "subject": "版本号升至 1.0.15"
-    },
-    {
-      "sha": "0cc152dee79de228e519deffc6352dcbab76bf11",
-      "shortSha": "0cc152d",
-      "committedAt": "2026-08-13T16:25:44+08:00",
-      "subject": "工作区记忆仅在用户明确需求时添加"
     }
   ]
 }
