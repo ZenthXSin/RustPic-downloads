@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-13T08:22:49.629930+00:00",
+  "generatedAt": "2026-08-13T08:37:23.017719+00:00",
   "commits": [
     {
-      "sha": "f3631761f00b89cfd6766dde5086776bb87965af",
-      "shortSha": "f363176",
-      "committedAt": "2026-08-13T16:13:24+08:00",
-      "subject": "矢量图形入口新开会话并预填引导提示词"
+      "sha": "8756ad8149d53901bf72eb7723a670bf5113fb0b",
+      "shortSha": "8756ad8",
+      "committedAt": "2026-08-13T16:25:44+08:00",
+      "subject": "版本号升至 1.0.15"
     },
     {
-      "sha": "b3119c26105a68045d1ba496f59da5c923b14ae3",
-      "shortSha": "b3119c2",
-      "committedAt": "2026-08-13T15:58:07+08:00",
-      "subject": "升级 vicky-core/vicky-script 至 0.1.72：流式请求注入 content 字段并回传 reasoning_content，修复 DeepSeek thinking 多轮工具调用 400"
+      "sha": "0cc152dee79de228e519deffc6352dcbab76bf11",
+      "shortSha": "0cc152d",
+      "committedAt": "2026-08-13T16:25:44+08:00",
+      "subject": "工作区记忆仅在用户明确需求时添加"
     },
     {
-      "sha": "b5427b141c80c7446d8b7e25db4dcf6d22cf0153",
-      "shortSha": "b5427b1",
-      "committedAt": "2026-08-13T13:56:21+08:00",
-      "subject": "制作 SVG 工具化：新增 generate_svg Agent 工具，矢量图形入口改为工作区预填引导提示词"
+      "sha": "5b2a427b8ab7e1a478e75edc0f54bde16d59ed62",
+      "shortSha": "5b2a427",
+      "committedAt": "2026-08-13T16:25:44+08:00",
+      "subject": "SVG 生成结果像生图一样在会话中显示：渲染 PNG 追加图片消息并更新最近生成"
     }
   ]
 }
