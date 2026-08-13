@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-13T08:09:25.669777+00:00",
+  "generatedAt": "2026-08-13T08:22:49.629930+00:00",
   "commits": [
+    {
+      "sha": "f3631761f00b89cfd6766dde5086776bb87965af",
+      "shortSha": "f363176",
+      "committedAt": "2026-08-13T16:13:24+08:00",
+      "subject": "矢量图形入口新开会话并预填引导提示词"
+    },
     {
       "sha": "b3119c26105a68045d1ba496f59da5c923b14ae3",
       "shortSha": "b3119c2",
@@ -13,12 +19,6 @@
       "shortSha": "b5427b1",
       "committedAt": "2026-08-13T13:56:21+08:00",
       "subject": "制作 SVG 工具化：新增 generate_svg Agent 工具，矢量图形入口改为工作区预填引导提示词"
-    },
-    {
-      "sha": "9207bfa2d83fd37d1fe1dd348ee1a11bab597324",
-      "shortSha": "9207bfa",
-      "committedAt": "2026-08-13T00:51:04+08:00",
-      "subject": "升级 vicky-core/vicky-script 至 0.1.71：OpenAI 流式请求 ktor 直连，非 2xx 透传真实错误"
     }
   ]
 }
