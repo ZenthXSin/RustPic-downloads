@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-14T12:23:22.080898+00:00",
+  "generatedAt": "2026-08-14T13:49:10.208554+00:00",
   "commits": [
+    {
+      "sha": "dde42644d3c7583d9259a095cd091eacfa5900ca",
+      "shortSha": "dde4264",
+      "committedAt": "2026-08-14T21:39:25+08:00",
+      "subject": "新增 agent 图像工具集：查看/编辑/绘制/像素化（程序化操作不依赖图像模型）+ 导出日志附带聊天记录"
+    },
     {
       "sha": "7be119fff420efef196442f6e32540a73cf2b87e",
       "shortSha": "7be119f",
@@ -13,12 +19,6 @@
       "shortSha": "998dfad",
       "committedAt": "2026-08-14T17:40:44+08:00",
       "subject": "修复对话信息弹窗显示与拖动剪切问题"
-    },
-    {
-      "sha": "efac7cf261dc0c89c492e87a8e15d54ba4731955",
-      "shortSha": "efac7cf",
-      "committedAt": "2026-08-14T17:12:47+08:00",
-      "subject": "升级 vicky 0.1.74 + 对话信息弹窗（真实 LLM 指标、思考强度、模型选择收敛）"
     }
   ]
 }
