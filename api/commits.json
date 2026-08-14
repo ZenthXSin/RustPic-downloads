@@ -1,24 +1,24 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-14T02:48:01.368018+00:00",
+  "generatedAt": "2026-08-14T12:23:22.080898+00:00",
   "commits": [
     {
-      "sha": "4394f6d10c9f3e43d122cef72dba02fbaf620cce",
-      "shortSha": "4394f6d",
-      "committedAt": "2026-08-14T10:36:10+08:00",
-      "subject": "版本号升至 1.0.18"
+      "sha": "7be119fff420efef196442f6e32540a73cf2b87e",
+      "shortSha": "7be119f",
+      "committedAt": "2026-08-14T19:17:42+08:00",
+      "subject": "升级 vicky 0.1.75：DeepSeek prompt_cache_hit_tokens 缓存命中统计"
     },
     {
-      "sha": "1ea5b465be23641f1da11e2fb3cd969aa449a3d5",
-      "shortSha": "1ea5b46",
-      "committedAt": "2026-08-13T21:57:46+08:00",
-      "subject": "新增 SVG 质量技能组：配色理论、插画风格、构图与细节"
+      "sha": "998dfad7cbbffbe37311931dadb7f1483e646c8b",
+      "shortSha": "998dfad",
+      "committedAt": "2026-08-14T17:40:44+08:00",
+      "subject": "修复对话信息弹窗显示与拖动剪切问题"
     },
     {
-      "sha": "a0666d496fbb365293e80db3bbf47ae506e5d248",
-      "shortSha": "a0666d4",
-      "committedAt": "2026-08-13T21:49:56+08:00",
-      "subject": "SVG 由工作区 AI 直接生成：工具改为提交校验型，agent 应用完整技能编写 SVG 代码"
+      "sha": "efac7cf261dc0c89c492e87a8e15d54ba4731955",
+      "shortSha": "efac7cf",
+      "committedAt": "2026-08-14T17:12:47+08:00",
+      "subject": "升级 vicky 0.1.74 + 对话信息弹窗（真实 LLM 指标、思考强度、模型选择收敛）"
     }
   ]
 }
