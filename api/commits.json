@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-14T13:49:10.208554+00:00",
+  "generatedAt": "2026-08-14T14:50:23.157458+00:00",
   "commits": [
+    {
+      "sha": "46c0c26c666ad487488e563cd265df84a3525478",
+      "shortSha": "46c0c26",
+      "committedAt": "2026-08-14T22:38:59+08:00",
+      "subject": "升级 vicky-core/vicky-script 至 0.1.76：压缩工具轮次时消除孤立 tool 消息，修复多轮工具调用 400"
+    },
     {
       "sha": "dde42644d3c7583d9259a095cd091eacfa5900ca",
       "shortSha": "dde4264",
@@ -13,12 +19,6 @@
       "shortSha": "7be119f",
       "committedAt": "2026-08-14T19:17:42+08:00",
       "subject": "升级 vicky 0.1.75：DeepSeek prompt_cache_hit_tokens 缓存命中统计"
-    },
-    {
-      "sha": "998dfad7cbbffbe37311931dadb7f1483e646c8b",
-      "shortSha": "998dfad",
-      "committedAt": "2026-08-14T17:40:44+08:00",
-      "subject": "修复对话信息弹窗显示与拖动剪切问题"
     }
   ]
 }
