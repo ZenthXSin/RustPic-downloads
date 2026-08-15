@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-14T14:50:23.157458+00:00",
+  "generatedAt": "2026-08-15T08:30:33.760072+00:00",
   "commits": [
+    {
+      "sha": "7f97ec318b2a11dce830337fb0086d639cff802d",
+      "shortSha": "7f97ec3",
+      "committedAt": "2026-08-15T16:18:25+08:00",
+      "subject": "版本号升至 1.0.21"
+    },
     {
       "sha": "46c0c26c666ad487488e563cd265df84a3525478",
       "shortSha": "46c0c26",
@@ -13,12 +19,6 @@
       "shortSha": "dde4264",
       "committedAt": "2026-08-14T21:39:25+08:00",
       "subject": "新增 agent 图像工具集：查看/编辑/绘制/像素化（程序化操作不依赖图像模型）+ 导出日志附带聊天记录"
-    },
-    {
-      "sha": "7be119fff420efef196442f6e32540a73cf2b87e",
-      "shortSha": "7be119f",
-      "committedAt": "2026-08-14T19:17:42+08:00",
-      "subject": "升级 vicky 0.1.75：DeepSeek prompt_cache_hit_tokens 缓存命中统计"
     }
   ]
 }
