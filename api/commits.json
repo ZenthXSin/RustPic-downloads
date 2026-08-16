@@ -1,7 +1,13 @@
 {
   "sourceRepo": "ZenthXSin/RustPic",
-  "generatedAt": "2026-08-15T08:30:33.760072+00:00",
+  "generatedAt": "2026-08-16T14:51:59.370777+00:00",
   "commits": [
+    {
+      "sha": "6a6c5737ad009c060d30028f2da472cc3cf2e2ef",
+      "shortSha": "6a6c573",
+      "committedAt": "2026-08-16T22:40:00+08:00",
+      "subject": "同步新生图模型：agnes-image-2.0/2.1-flash 与 sensenova-u1-fast（专属尺寸集），版本号升至 1.0.22"
+    },
     {
       "sha": "7f97ec318b2a11dce830337fb0086d639cff802d",
       "shortSha": "7f97ec3",
@@ -13,12 +19,6 @@
       "shortSha": "46c0c26",
       "committedAt": "2026-08-14T22:38:59+08:00",
       "subject": "升级 vicky-core/vicky-script 至 0.1.76：压缩工具轮次时消除孤立 tool 消息，修复多轮工具调用 400"
-    },
-    {
-      "sha": "dde42644d3c7583d9259a095cd091eacfa5900ca",
-      "shortSha": "dde4264",
-      "committedAt": "2026-08-14T21:39:25+08:00",
-      "subject": "新增 agent 图像工具集：查看/编辑/绘制/像素化（程序化操作不依赖图像模型）+ 导出日志附带聊天记录"
     }
   ]
 }
