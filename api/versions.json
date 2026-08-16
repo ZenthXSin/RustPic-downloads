@@ -2,6 +2,18 @@
   "versions": [
     {
       "channel": "stable",
+      "versionName": "BETA-98",
+      "versionCode": 98,
+      "publishedAt": "2026-08-16T14:51:59.317759+00:00",
+      "commit": "6a6c5737ad009c060d30028f2da472cc3cf2e2ef",
+      "title": "RustPic STABLE-98",
+      "notes": [],
+      "apkUrl": "https://github.com/ZenthXSin/RustPic-downloads/releases/download/beta-98/RustPic-BETA-98-release.apk",
+      "sha256": "1e274c13335c6d8a3f729c9e00c29955f3fed1dd8ebecac088f1ba95c67bdaf4",
+      "minSupportedVersionCode": 1
+    },
+    {
+      "channel": "stable",
       "versionName": "BETA-97",
       "versionCode": 97,
       "publishedAt": "2026-08-15T08:30:33.725186+00:00",
